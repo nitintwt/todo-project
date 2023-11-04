@@ -1,2 +1,2 @@
 # todo-project
-A straightforward To-Do List app made with HTML, CSS, and JavaScript. Add and remove tasks effortlessly. Your tasks stay saved even if you refresh the page.
+A simple To-Do List application made with HTML, CSS, and JavaScript. It features a clean interface with the ability to add and remove tasks. You can mark tasks as done using the 'Done' button and remove tasks using the 'Delete' button. Your tasks are stored for convenience, persisting even after page refresh.
